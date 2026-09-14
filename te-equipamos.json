@@ -1,0 +1,20 @@
+{
+  "brand": "Te Equipamos",
+  "items": [
+    {
+      "active": true,
+      "type": "sale",
+      "sections": ["Ofertas", "Ventas", "Novedades"],
+      "title": "REMATE: sandalias Quechua NH100 mujer naranja por S/129",
+      "summary": "Antes S/189. Ahorras S/60 en las sandalias NH100 de mujer color naranja arcilla / rosa pálido. Tallas 37–42, hasta fin de existencias.",
+      "details": "Landing de remate con galería de ocho imágenes, características, tallas y consulta directa por WhatsApp.",
+      "image": "https://contents.mediadecathlon.com/p3078938/k$7daeb5f733d9b76f7e9a1b11891c3834/picture.jpg?f=1600x0&format=auto",
+      "time": "Remate · Hasta fin de existencias",
+      "score": 98,
+      "featured": true,
+      "direct": true,
+      "tags": ["remate", "sandalias", "quechua", "mujer", "naranja", "senderismo"],
+      "url": "https://jorgesport.github.io/te-equipamos-nh100-mujer-naranja-remate/"
+    }
+  ]
+}
