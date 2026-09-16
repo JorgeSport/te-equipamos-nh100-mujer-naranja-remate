@@ -47,5 +47,5 @@
     function closeLightbox(){lightbox.classList.remove('open');document.body.style.overflow=''}document.getElementById('close').onclick=closeLightbox;lightbox.addEventListener('click',e=>{if(e.target===lightbox)closeLightbox()});document.addEventListener('keydown',e=>{if(e.key==='Escape')closeLightbox()});
     let size='';const url='https://jorgesport.github.io/te-equipamos-nh100-mujer-naranja-remate/';function updateWa(){const msg=`Hola Te Equipamos, quiero consultar el remate de las sandalias Quechua NH100 de mujer, color naranja arcilla / rosa pálido, por S/129 (antes S/189). ${size?`Mi talla es ${size}. `:'¿Qué tallas hay disponibles? '}Referencia 8973908. ${url}`;const href='https://wa.me/51920807184?text='+encodeURIComponent(msg);document.getElementById('buy').href=href;document.getElementById('floatWa').href=href}document.querySelectorAll('[data-size]').forEach(b=>b.onclick=()=>{size=b.dataset.size;document.querySelectorAll('[data-size]').forEach(x=>x.classList.toggle('selected',x===b));updateWa()});updateWa();
   </script>
-</body>
+<script defer src="https://jorgesport.github.io/te-equipamos/universal-footer.js" data-te-universal-footer-loader></script></body>
 </html>
